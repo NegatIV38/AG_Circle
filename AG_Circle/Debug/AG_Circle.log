@@ -1,0 +1,16 @@
+﻿La génération a démarré 10/07/2016 12:22:31.
+     1>Projet "D:\VSProj\AG_Circle\AG_Circle\AG_Circle.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files\SFML32\SFML-2.3.1\include" /I"C:\Program Files\SFML32\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Debug\\" /Fd"Debug\vc120.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Ignoré... (aucune modification pertinente détectée)
+         Source.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VSProj\AG_Circle\Debug\AG_Circle.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\SFML32\SFML-2.3.1\lib" /LIBPATH:"C:\Program Files\SFML32\lib" "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VSProj\AG_Circle\Debug\AG_Circle.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VSProj\AG_Circle\Debug\AG_Circle.lib" /MACHINE:X86 Debug\Source.obj
+         AG_Circle.vcxproj -> D:\VSProj\AG_Circle\Debug\AG_Circle.exe
+       BscMake:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"D:\VSProj\AG_Circle\Debug\AG_Circle.bsc" /n Debug\Source.sbr
+     1>Génération du projet "D:\VSProj\AG_Circle\AG_Circle\AG_Circle.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:03.26
